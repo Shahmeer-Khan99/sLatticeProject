@@ -64,6 +64,7 @@ nvcc -O3 simplify.cu -o simplify
 
 # Run
 ./simplify -o output.tcn input.tcn
+```
 
 # Results
 
